@@ -1,0 +1,16 @@
+{
+    "5": [
+        {
+            "img_dir": "../img\\0254.jpg",
+            "logits": 4
+        },
+        {
+            "img_dir": "../img\\0252.jpg",
+            "logits": 4
+        },
+        {
+            "img_dir": "../img\\0251.jpg",
+            "logits": 4
+        }
+    ]
+}

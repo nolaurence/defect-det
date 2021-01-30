@@ -1,0 +1,15 @@
+./1st/
+./2nd/
+./dataset/
+./分拣/
+./黑白/
+./TO56缺陷分类/
+./output/
+./gradient_maps/
+./differnet/defect/
+
+./code/.idea/
+./code/.vscode/
+./code/data/
+./code/Learn-OpenCV-in-3-hours/
+./code/output/
